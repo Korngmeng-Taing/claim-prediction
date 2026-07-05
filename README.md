@@ -34,7 +34,6 @@ insurance_claim_project/
 │   ├── 02_Machine_Learning.ipynb      # Model Training & Tuning
 │   └── 03_Model_Evaluation.ipynb      # Model Evaluation & Comparison
 ├── models/
-│   ├── powerbi_dashboard.xlsx         # Power BI data (all sheets)
 │   ├── model_comparison.csv           # Metrics summary
 │   ├── test_predictions.csv           # Predictions + probabilities
 │   ├── feature_importance.csv         # Feature importance by model
